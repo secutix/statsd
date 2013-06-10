@@ -2,7 +2,7 @@ statsd (0.0.3-2) unstable; urgency=low
 
   * NodeJS package is called node
 
- -- Reynald Borer <reynald.borer@gmail.com> Mon, 10 Jun 2013 10:40:00 +0100
+ -- Reynald Borer <reynald.borer@gmail.com>  Mon, 10 Jun 2013 10:40:00 +0100
 
 statsd (0.0.3-1) unstable; urgency=low
 
